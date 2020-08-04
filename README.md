@@ -14,7 +14,7 @@ This will create a WiFi access point through which you can connect the ESP to yo
 
 **URL Allowed:** Only with SSL i.e. https
 
-**URL Specification:** Use URL without HTTPS://
+**URL Specification:** Use URL without "HTTPS://" *//adds this automatically*
 
 **Serial Monitor:**  @ 115200  *//to track the process.*
 
