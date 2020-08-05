@@ -18,7 +18,7 @@ This will create a WiFi access point through which you can connect the ESP to yo
 
 **Serial Monitor:**  @ 115200  *//to track the process.*
 
-
+Can follow steps from this tutorial, works for ESP too. https://link.medium.com/SGc23dBYH8 
 .
 
 
